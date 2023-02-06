@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-color: lightgreen;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid black;
+}
+td{
+    border: 2px solid red;
+}
+img{
+    width:20vw;
+}
