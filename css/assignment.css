@@ -2,6 +2,7 @@ body{
     text-align: center;
     background-color: lightgreen;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
 }
 table{
     margin-left: auto;
