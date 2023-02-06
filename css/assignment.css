@@ -15,3 +15,9 @@ td{
 img{
     width:20vw;
 }
+button{
+    background-color: lightblue;
+    height: 10vh;
+    border: 10px solid purple;
+    margin-top: 2vh;
+}
